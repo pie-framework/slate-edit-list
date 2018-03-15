@@ -1,6 +1,6 @@
 {
-  "name": "slate-edit-list",
-  "description": "A Slate plugin to handle keyboard events in lists.",
+  "name": "@pie-framework/slate-edit-list",
+  "description": "A fork of 'slate-edit-list': A Slate plugin to handle keyboard events in lists.",
   "version": "0.11.2",
   "license": "Apache-2.0",
   "repository": "git://github.com/GitbookIO/slate-edit-list.git",
